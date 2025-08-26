@@ -1,0 +1,15 @@
+================================================================================
+UNAUTHORIZED SERVERS REPORT
+================================================================================
+Requirements Checked: 1 resources
+Report Generated: 2025-08-25 20:27:26
+Total Unauthorized Servers Found: 1
+================================================================================
+
+Server Code: 2b48pn
+Owner Name: zaphosting
+Owner Profile: https://forum.cfx.re/u/zaphosting
+Resource: bsd
+Required Package: 6868590
+JSON File: aTest1.json
+----------------------------------------
